@@ -1,0 +1,1 @@
+This program allow you to travel over Universe in 3D. Thousands of stars, galaxies, planets... True astronomycal data and randomly generated systems.
